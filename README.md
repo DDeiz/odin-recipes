@@ -6,5 +6,5 @@ It consists of a main index page which has links of 3 recipe pages that I built.
 - Also added some CSS in the style element nesting in head tag.
 - Created links and added a few to give credit for the recipes.
 - Organised files and directories in local machine as well as github.
-The hardest part I faced till now has been updating github. I hope it gets easier as I keep moving forward.
+### The hardest part I faced till now has been updating github. I hope it gets easier as I keep moving forward.
 
